@@ -4,8 +4,13 @@
   <groupId>org.social-bridge</groupId>
   <artifactId>social-bridge-server</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
   <name>Archetype - social-bridge-server</name>
   <url>https://maven.apache.org</url>
+  <modules>
+    <module>eureka-server</module>
+    <module>user</module>
+  </modules>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
