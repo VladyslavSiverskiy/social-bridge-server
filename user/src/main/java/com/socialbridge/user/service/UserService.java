@@ -4,5 +4,5 @@ import com.socialbridge.user.model.User;
 
 public interface UserService {
 
-    User save(User user);
+    User create(User user);
 }

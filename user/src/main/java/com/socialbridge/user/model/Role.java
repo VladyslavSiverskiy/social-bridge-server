@@ -1,4 +1,4 @@
-package com.socialbridge.user.model.enums;
+package com.socialbridge.user.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
