@@ -8,5 +8,6 @@ public class UserController {
 
     @GetMapping("/test")
     public void test() {
+        System.out.println("hello");
     }
 }

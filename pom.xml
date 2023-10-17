@@ -10,6 +10,7 @@
   <modules>
     <module>eureka-server</module>
     <module>user</module>
+    <module>notifications</module>
   </modules>
 
   <properties>
